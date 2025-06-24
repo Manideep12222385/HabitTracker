@@ -42,14 +42,11 @@ Day	Concept	Application in Project
 
 🛠 Bonus Tools
 ✅ Operator Overloading (+) for merging two HabitTracker instances.
-
 ⏱️ Optional timer context manager available in habits.py to benchmark functions.
 
 📌 Notes
 All dates must follow YYYY-MM-DD format.
-
 Use with open(...) for all file operations.
-
 If habits.json is not found, a new tracker is initialized.
 
 

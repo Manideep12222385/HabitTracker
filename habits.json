@@ -1,0 +1,33 @@
+{
+  "Exercise": {
+    "name": "Exercise",
+    "description": "Do yoga for 30-minute workout",
+    "history": [
+      "2025-06-20",
+      "2025-06-21",
+      "2025-06-22"
+    ]
+  },
+  "Reading": {
+    "name": "Reading",
+    "description": "Read for 20 minutes",
+    "history": [
+      "2025-06-20",
+      "2025-06-22"
+    ]
+  },
+  "Meditation": {
+    "name": "Meditation",
+    "description": "10 minutes of mindfulness",
+    "history": [
+      "2025-06-19",
+      "2025-06-20",
+      "2025-06-21"
+    ]
+  },
+  "Running": {
+    "name": "Running",
+    "description": "Daily morning run for 30 min",
+    "history": []
+  }
+}

@@ -2,7 +2,8 @@
 A simple Command-Line Habit Tracker built with Python, integrating core concepts like object-oriented programming, data structures, file I/O, exception handling, and CLI interaction. Track your daily habits, mark them as done, review streaks, and save progress between runs.
 
 📁 Project Structure
-.
+
+
 ├── habits.py        
 ├── cli.py             
 ├── habits.json       
